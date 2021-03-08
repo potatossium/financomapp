@@ -8,5 +8,5 @@
 安装依赖：
 npm install
 
-端口运行dev模式： localhost:8080
+端口运行dev模式：
 npm run dev
