@@ -2,11 +2,11 @@
 
 未完成的SPA页面；使用elementUI提供的组件库；
 
-## Build Setup
+# Build Setup
 
 
-# 安装依赖：
+安装依赖：
 npm install
 
-# 端口运行dev模式： localhost:8080
+端口运行dev模式： localhost:8080
 npm run dev
